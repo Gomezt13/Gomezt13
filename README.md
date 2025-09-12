@@ -8,7 +8,6 @@
 
 <h2><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAxY2t6bW96MHBlYmJ2ZzQzaWJ5cGtnemhwZGRuZTQ0dnVsdXFiciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NkFR2ItteEmhafgnv1/giphy.gif" height="25"> About me</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Euler;Second+line+of+text&center=true)](https://git.io/typing-svg)
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 
