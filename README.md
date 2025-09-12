@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&multiline=true&width=435&height=70&lines=Hey%2C+I'm+Euler" alt="Typing SVG" /></a>
 </div>
 
-
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 - I am an agricultural engineering student at UNTRM.
 
