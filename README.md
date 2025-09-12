@@ -1,5 +1,5 @@
-<div aling="center">
-  <hi>Hey, I'm Euler</hi>
+<div align="center">
+  <h1 align="center">Hey, I'm Euler</h1>
 </div>
 - I am an agricultural engineering student at UNTRM.
 
