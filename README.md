@@ -2,12 +2,23 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm80NzF5bnB6enkxZmU1bDI1azJyN25scWRqeWVxNHJwaXFvNjgzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" />
 
+🎓 Agricultural professional with a strong focus on:
+- 🌱 Sustainable production systems
+- 📊 Data analysis
+- 📈 Statistical modeling
+- 🧬 Agricultural biotechnology
+
+
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
+I am passionate about applying quantitative and technological tools to agriculture, particularly in:
+- Aboveground biomass estimation
+- Carbon stock and sequestration analysis
+- Allometric modeling
+- Sustainable agricultural systems
+- Gene editing in agriculture (CRISPR/Cas9)
+
+My goal is to bridge agricultural science and data-driven decision-making.
 
 ## My Skills Include
 
@@ -22,8 +33,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src= "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
   <img src= "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 
-
-
 </span>
 
 
@@ -35,4 +44,16 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
+## 📚 Currently Working On
 
+- Biomass estimation in Amazonian palm species
+- Statistical modeling applied to agricultural systems
+- Academic CV development using RenderCV
+- Scientific article preparation (journal format)
+
+## 📊 GitHub Stats
+
+
+---
+
+⭐ Always open to collaboration in agricultural research, sustainability, and data-driven projects.
